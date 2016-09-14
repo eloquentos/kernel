@@ -1,7 +1,4 @@
-# $Id: PKGBUILD 275850 2016-09-08 14:58:01Z andyrtr $
-# Maintainer: Andreas Radke <andyrtr@archlinux.org>
-
-pkgbase=linux-lts
+pkgbase=eloquentos-kernel
 _srcname=linux-4.4
 pkgver=4.4.20
 pkgrel=1
